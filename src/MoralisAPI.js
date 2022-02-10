@@ -26,7 +26,7 @@ async function getNFTs(authorization) {
 export async function getAchievemnts(address){
   const achievements =[];
   const token_address="0x72b6dc1003e154ac71c76d3795a3829cfd5e33b9";
-  const valid_tokens = ["10976","10974","10979"];
+  const valid_tokens = ["11057"];
 
   const RawNFTs = await moralisConnector.moralisStartAndGetNFTs(address);
   console.log(RawNFTs);
