@@ -1,13 +1,11 @@
-# Web3-React Example
+# Sports' Day NFT
 
-This project was created with [Create React App](https://create-react-app.dev).
+This website provides a place to display your NFTs from selected sports events. You can compete in a real life race and win special NFT rewards.
 
-## Files
+Video demo: https://youtu.be/83aqtj3EYu0
+Website: https://festive-boyd-8f81d4.netlify.app/
 
-- [index.tsx](./src/index.tsx) - The root of the React app.
-- [connectors.ts](./src/connectors.ts) - The configuration for `web3-react`.
-- [App.tsx](./src/App.tsx) - A login page implementation.
 
-## Resources
-
-- This is an example demonstrating the use of [`@uauth/web3-react`](../../packages/web3-react)
+## Contact
+Discord: abcdenews#4124
+email: abcdenewsletters@gmail.com
